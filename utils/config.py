@@ -1,1 +1,1 @@
-SERVICE_URL = "http://localhost:5000"
+SERVICE_URL = "https://prodhud.onrender.com"
